@@ -75,7 +75,7 @@
     - [Stakeholder Interviews](#stakeholder-interviews)
     - [Storyboard](#storyboard)
     - [Strategy stage](#strategy-stage)
-    - [Survey],(#survey)
+    - [Survey](#survey)
 * [T](#t)
     - [Technical communication](#technical-communication)
 * [U](#u)
