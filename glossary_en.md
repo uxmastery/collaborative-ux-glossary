@@ -6,6 +6,8 @@
     - [3-Click Rule](#3-click-rule)
 * [5](#3)
     - [5 Second Test](#5-second-test)
+* [8](#3)
+    - [80/20 Rule](#80-20-rule)
 * [A](#a)
     - [Adaptive Web Design](#adaptive-web-design)
     - [Affinity diagramming](#affinity-diagramming)
@@ -100,7 +102,7 @@
     - [Workflow diagram](#workflow-diagram)
 * [X](#x)
 * [Y](#y)
-* [z](#z)
+* [Z](#z)
 
 ## <a name="3"></a>3
 
@@ -110,9 +112,12 @@ A theory of website navigation prevalent in the early 2000s suggesting that a us
 ## <a name="5"></a>3
 
 ### <a name="5-second-test"></a>5 Second Test
-
 As the name suggests, the 5-Second Test involves showing users a single content page for a quick 5 seconds. The aim is to gather a participant's initial impressions and assess the screen's clarity and conciseness using simple questions like "What is the most important information on the page?" or "How would you go about achieving your goal on this screen?". The setup is similar to a standard usability test, and may sometimes be combined with one. 
 
+## <a name="8"></a>3
+
+### <a name="80-20-rule"></a>80/20 Rule
+A common rule of thumb in business stating that roughly 80% of the effects come from 20% of the causes, based on phenomena shown empirically to exhibit such a probability distribution. Adapted for UX it might be true that "80% of the errors in a given system could be eliminated by fixing 20% of the most-reported bugs". Also known as the Pareto principle or the 'law of the vital few'.
 
 ## <a name="a"></a>A
 
