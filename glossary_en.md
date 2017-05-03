@@ -9,6 +9,7 @@
 * [8](#3)
     - [80/20 Rule](#80-20-rule)
 * [A](#a)
+    - [A/B Testing](#a-b-testing)
     - [Adaptive Web Design](#adaptive-web-design)
     - [Affinity diagramming](#affinity-diagramming)
     - [Agile software development methodology](#agile)
@@ -120,6 +121,9 @@ As the name suggests, the 5-Second Test involves showing users a single content 
 A common rule of thumb in business stating that roughly 80% of the effects come from 20% of the causes, based on phenomena shown empirically to exhibit such a probability distribution. Adapted for UX it might be true that "80% of the errors in a given system could be eliminated by fixing 20% of the most-reported bugs". Also known as the Pareto principle or the 'law of the vital few'.
 
 ## <a name="a"></a>A
+
+### <a name="a-b-testing"></a>A/B Testing
+A form of statistical hypothesis testing used predominantly in marketing and business intelligence. Two or more variants (i.e. a 'control' A and a variation 'B') are measured during a controlled experiment to determine which changes will increase or maximise an outcome of interest (especially regarding conversion rates and click-through rates). Also known as split testing or bucket testing.
 
 ### <a name="adaptive-design"></a>Adaptive web design
 Like Responsive web design it is an approach to web design aimed at crafting sites to provide an optimal viewing and interaction experience on different screen and devices. The difference is that adaptive design is less fluid then RWD, and 'serves' few fixed width versions of the design depending on viewport size. It can utilise server side techniques to 'detect' viewport size prior to rendering html. The advantage for designer is that it gives more control over images and typography, and hence is easier approach to 'retrofit' fixed width websitest to work on mobile devices. 
