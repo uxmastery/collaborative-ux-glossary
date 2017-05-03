@@ -41,6 +41,7 @@
 * [I](#i)
     - [Industrial design](#industrial-design)
     - [Information architecture (IA)](#information-architecture)
+    - [Information scent](#information-scent)
     - [Interaction design (IxD)](#interaction-design)
     - [Interaction model](#interaction-model)
     - [Iterate](#iterate)
@@ -208,6 +209,9 @@ The application art and science to a product, in order to improve its aesthetics
 
 ### <a name="information-architecture"></a>Information architecture (IA)	
 The art and science of organising and labeling websites, intranets, online communities and software to support usability.
+
+### <a name="information-scent"></a>Information scent
+An important concept in information foraging theory referring to the extent to which users can predict what they will find if they persue a certain path through a website. As animals rely on scents to indicate the chances of finding food, so do humans rely on various cues in the information environment to acheieve their goals.
 
 ### <a name="interaction-design"></a>Interaction design (IxD)
 Sometimes referred to as IxD, interaction design strives to create meaningful relationships between people and the products and services that they use.
