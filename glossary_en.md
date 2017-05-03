@@ -2,7 +2,9 @@
 
 ## Index
 
- * [A](#a)
+* [3](#3)
+    - [3-Click Rule](#3-click-rule)
+* [A](#a)
     - [Adaptive Web Design](#adaptive-web-design)
     - [Affinity diagramming](#affinity-diagramming)
     - [Agile software development methodology](#agile)
@@ -97,6 +99,10 @@
 * [Y](#y)
 * [z](#z)
 
+## <a name="3"></a>3
+
+### <a name="3-click-rule"></a>3-Click Rule
+A theory of website navigation prevalent in the early 2000s suggesting that a user of a website should be able to find any information with no more than three mouse clicks or they would leave out of frustration. It's now widely accepted as nonsense; usability studies disprove the theory's link to user satisfaction or success rates and instead link these to 'information scent'.  
 
 ## <a name="a"></a>A
 
