@@ -4,6 +4,8 @@
 
 * [3](#3)
     - [3-Click Rule](#3-click-rule)
+* [5](#3)
+    - [5 Second Test](#5-second-test)
 * [A](#a)
     - [Adaptive Web Design](#adaptive-web-design)
     - [Affinity diagramming](#affinity-diagramming)
@@ -11,7 +13,7 @@
     - [Analysis stage](#analysis-stage)
     - [Analytics](#analytics)
     - [Axure](#axure)
- * [B](#b)
+* [B](#b)
     - [Balsamiq Mockups](#balsamiq-mockups)
     - [Beta launch](#beta-launch)
     - [Branding](#branding)
@@ -104,6 +106,13 @@
 
 ### <a name="3-click-rule"></a>3-Click Rule
 A theory of website navigation prevalent in the early 2000s suggesting that a user of a website should be able to find any information with no more than three mouse clicks or they would leave out of frustration. It's now widely accepted as nonsense; usability studies disprove the theory's link to user satisfaction or success rates and instead link these to 'information scent'.  
+
+## <a name="5"></a>3
+
+### <a name="5-second-test"></a>5 Second Test
+
+As the name suggests, the 5-Second Test involves showing users a single content page for a quick 5 seconds. The aim is to gather a participant's initial impressions and assess the screen's clarity and conciseness using simple questions like "What is the most important information on the page?" or "How would you go about achieving your goal on this screen?". The setup is similar to a standard usability test, and may sometimes be combined with one. 
+
 
 ## <a name="a"></a>A
 
